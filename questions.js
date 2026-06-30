@@ -16,7 +16,7 @@ window.questions = [
   },
   {
     id: 2,
-    image: "images/IMG_6951.jpeg",
+    image: "images/IMG_8471.jpeg",
     question: "A 24-year-old male presents with progressive thinning of hair over the frontal scalp. Trichoscopic examination shows miniaturized follicles producing thin, short, non-pigmented, non-medullated hairs that are located more superficially compared to thick scalp hairs.\nWhich type of hair is being described?",
     options: [
       "Lanugo hair",
@@ -29,7 +29,7 @@ window.questions = [
   },
   {
     id: 3,
-    image: "images/IMG_6952.jpeg",
+    image: "images/IMG_8472.jpeg",
     question: "A 28-year-old woman presents with diffuse hair shedding 3 months after delivery. Hair-pull test is positive, and microscopy shows multiple club-shaped hairs. There is no scarring, scaling, or patchy alopecia.\nThe phase predominantly increased in this condition normally lasts for approximately:",
     options: [
       "2–5 years and forms nearly 80% of scalp hair",
@@ -42,7 +42,7 @@ window.questions = [
   },
   {
     id: 4,
-    image: "images/IMG_6953.jpeg",
+    image: "images/IMG_8473.jpeg",
     question: "A 32-year-old woman presents with a slowly progressive patch of hair loss over the scalp. On examination, the affected area appears smooth, shiny, and atrophic, with loss of follicular openings. Mild perifollicular erythema and scaling are present at the margins. The dermatologist explains that regrowth is unlikely because the follicular stem cell region has been destroyed.\nWhich of the following conditions belongs to the same category of alopecia?",
     options: [
       "Alopecia areata",
@@ -55,7 +55,7 @@ window.questions = [
   },
   {
     id: 5,
-    image: "images/IMG_6954.jpeg",
+    image: "images/IMG_8474.jpeg",
     question: "A 19-year-old student presents with sudden onset well-defined patchy hair loss over the scalp. The skin over the patch is smooth, follicular openings are preserved, and dermoscopy shows tapering exclamation-mark hairs. Nail examination shows uniform geometric pitting. Biopsy from the active margin shows dense peribulbar T-lymphocytic infiltrate described as “swarm of bees” appearance.\nWhich is the primary target in this disorder?",
     options: [
       "Pigment-producing cells of the hair bulb",
@@ -68,7 +68,7 @@ window.questions = [
   },
   {
     id: 6,
-    image: "images/IMG_6956.jpeg",
+    image: "images/IMG_8475.jpeg",
     question: "A 6-month-old infant develops multiple tiny, clear, superficial vesicles over the trunk after a febrile illness in a hot humid climate. The lesions look like dew drops, are non-inflammatory, and rupture easily. The pediatrician explains that this occurs due to obstruction of the eccrine sweat duct at the most superficial epidermal level.\nAt which level is the obstruction most likely present?",
     options: [
       "Stratum corneum",
@@ -81,7 +81,7 @@ window.questions = [
   },
   {
     id: 7,
-    image: "images/IMG_6960.jpeg",
+    image: "images/IMG_8476.jpeg",
     question: "A 26-year-old woman complains that her clothes get stained with yellow-green coloured sweat, especially from the axillary region. There is no foul smell, fever, sinus tract, or painful nodules. Histopathology shows accumulation of lipofuscin granules in apocrine secretory cells.\nWhat is the most likely diagnosis?",
     options: [
       "Bromhidrosis",
@@ -94,7 +94,7 @@ window.questions = [
   },
   {
     id: 8,
-    image: "images/IMG_6963.jpeg",
+    image: "images/IMG_8477.jpeg",
     question: "A 17-year-old boy presents with severe facial acne. Examination shows multiple painful deep lesions with nodules and cysts, along with old scars. The dermatologist explains that this stage occurs due to rupture of hair follicles in the pilosebaceous unit and carries a high risk of permanent scarring.\nWhich is the most appropriate treatment of choice?",
     options: [
       "Topical antibiotics",
@@ -107,7 +107,7 @@ window.questions = [
   },
   {
     id: 9,
-    image: "images/IMG_7097.jpeg",
+    image: "images/IMG_8478.jpeg",
     question: "A 29-year-old factory worker from an industrial chemical unit presents with sudden onset of multiple uniform acne-like lesions over the face and trunk. Examination shows predominantly monomorphic comedones, with minimal inflammatory papules or pustules. He gives a history of chronic exposure to chlorinated hydrocarbon compounds at work.\nWhat is the most likely diagnosis?",
     options: [
       "Acne excoriée",
@@ -120,7 +120,7 @@ window.questions = [
   },
   {
     id: 10,
-    image: "images/IMG_6965.jpeg",
+    image: "images/IMG_8479.jpeg",
     question: "A 48-year-old man with chronic illness presents with paired transverse white bands across multiple fingernails. The bands are parallel to the lunula, do not move with nail growth, and become less prominent on applying pressure over the nail plate. Serum albumin is found to be markedly reduced.\nWhich nail finding is most likely present?",
     options: [
       "Muehrcke’s lines",
@@ -133,7 +133,7 @@ window.questions = [
   },
   {
     id: 11,
-    image: "images/IMG_6968.jpeg",
+    image: "images/IMG_8480.jpeg",
     question: "A 13-year-old boy develops multiple small erythematous scaly plaques over the trunk 2 weeks after an episode of sore throat. On scraping, the lesions show dry silvery-white micaceous scales. The dermatologist explains that this disorder is a T-cell mediated chronic inflammatory disease precipitated by an external infectious trigger.\nWhich of the following is the most likely trigger in this patient?",
     options: [
       "Staphylococcus aureus",
@@ -146,7 +146,7 @@ window.questions = [
   },
   {
     id: 12,
-    image: "images/IMG_6969.jpeg",
+    image: "images/IMG_8481.jpeg",
     question: "A 21-year-old woman presents with an oval erythematous plaque on the trunk followed by multiple smaller lesions along the skin cleavage lines. On close examination, each lesion shows a fine scale attached at the inner margin with free edge directed inward, giving a collar-like appearance.\nWhich of the following conditions is classically associated with this type of scale?",
     options: [
       "Psoriasis",
@@ -159,7 +159,7 @@ window.questions = [
   },
   {
     id: 13,
-    image: "images/IMG_6970.jpeg",
+    image: "images/IMG_8482.jpeg",
     question: "A 34-year-old man presents with well-defined erythematous plaques over the elbows and knees covered by dry silvery scales. During bedside examination, the dermatologist gently rubs the plaque with a glass slide. The scaling first becomes more prominent, then a thin translucent membrane is exposed, and on further removal of this membrane, multiple pinpoint bleeding spots appear.\nWhich of the following correctly represents the final finding described?",
     options: [
       "Candle wax sign",
@@ -172,7 +172,7 @@ window.questions = [
   },
   {
     id: 14,
-    image: "images/IMG_6972.jpeg",
+    image: "images/IMG_8483.jpeg",
     question: "A 28-year-old woman with severe psoriasis has generalized pustular lesions involving a large body surface area. She is planned for systemic therapy. The dermatologist chooses an oral retinoid and specifically counsels her to avoid pregnancy for 3 years after stopping the drug.\nWhich drug is most likely being prescribed?",
     options: [
       "Acitretin",
@@ -185,7 +185,7 @@ window.questions = [
   },
   {
     id: 15,
-    image: "images/IMG_6973.jpeg",
+    image: "images/IMG_8484.jpeg",
     question: "A 42-year-old woman presents with multiple intensely itchy lesions over the flexor aspect of the wrist. Examination shows violaceous, flat-topped, polygonal papules. On close inspection, fine whitish lacy lines are seen over the surface of the lesions.\nWhich of the following best describes the classical morphology of this condition?",
     options: [
       "Painful pustules with purulent crusting",
@@ -198,7 +198,7 @@ window.questions = [
   },
   {
     id: 16,
-    image: "images/IMG_6975.jpeg",
+    image: "images/IMG_8485.jpeg",
     question: "A 36-year-old woman presents with intensely itchy, violaceous, flat-topped papules over the wrists. On nail examination, there is longitudinal ridging, thinning of the nail plate, and a triangular extension of the proximal nail fold onto the nail plate, which appears to fuse with the nail bed.\nWhich nail finding is most specific for this condition?",
     options: [
       "Uniform geometric nail pitting",
@@ -211,7 +211,7 @@ window.questions = [
   },
   {
     id: 17,
-    image: "images/IMG_6976.jpeg",
+    image: "images/IMG_8486.jpeg",
     question: "A 9-year-old child presents with generalized rough follicular papules that are red-orange and pointed. Examination shows diffuse erythematous plaques with sharply demarcated normal skin islands within the involved areas. Palms and soles show orangish-yellow thickening, giving a keratoderma-like appearance. Histopathology shows alternating vertical and horizontal zones of orthokeratosis and parakeratosis, producing a checkerboard pattern.\nWhich is the most likely diagnosis?",
     options: [
       "Psoriasis",
@@ -224,7 +224,7 @@ window.questions = [
   },
   {
     id: 18,
-    image: "images/IMG_6977.jpeg",
+    image: "images/IMG_8487.jpeg",
     question: "A 46-year-old woman presents with painful oral erosions followed by multiple flaccid bullae over the trunk. The bullae rupture easily, leaving raw erosions. Biopsy shows loss of cohesion between keratinocytes above the basal layer, while basal cells remain attached to the basement membrane giving a “row of tombstones” appearance.\nWhich immunological abnormality best explains this condition?",
     options: [
       "IgG antibodies against desmoglein 3 causing suprabasal split",
@@ -237,7 +237,7 @@ window.questions = [
   },
   {
     id: 19,
-    image: "images/IMG_6980.jpeg",
+    image: "images/IMG_8488.jpeg",
     question: "A 58-year-old man presents with severe, persistent painful oral erosions and widespread polymorphic skin lesions including erosions, crusted plaques, and vesiculobullous lesions. The lesions are unusually resistant to routine therapy. Immunological evaluation shows antibodies against desmoglein 1, desmoglein 3, and plakin group proteins. Further workup is planned to look for an associated internal malignancy.\nWhich of the following malignancies is most commonly associated with this condition?",
     options: [
       "Chronic lymphocytic leukemia",
@@ -263,7 +263,7 @@ window.questions = [
   },
   {
     id: 21,
-    image: "images/IMG_6981.jpeg",
+    image: "images/IMG_8489.jpeg",
     question: "A 72-year-old man presents with multiple large tense bullae over the abdomen and thighs. Oral mucosa is spared. Tzanck smear shows no acantholytic cells, but inflammatory cells rich in eosinophils are seen. Skin biopsy shows a subepidermal split, and direct immunofluorescence demonstrates linear IgG deposition along the basement membrane zone, giving a ribbon-like appearance.\nWhich antigen is most commonly targeted in this disorder?",
     options: [
       "Desmoglein 3",
@@ -276,7 +276,7 @@ window.questions = [
   },
   {
     id: 22,
-    image: "images/IMG_6982.jpeg",
+    image: "images/IMG_8490.jpeg",
     question: "A 29-year-old primigravida in her third trimester presents with intensely itchy erythematous plaques around the umbilicus. Over the next few days, she develops tense bullae with surrounding edema. Biopsy shows a subepidermal blister, and immunopathology suggests antibodies cross-reacting with BPAg2 after loss of immune tolerance to fetal tissue.\nWhat is the most likely diagnosis?",
     options: [
       "Pemphigoid gestationis",
@@ -289,7 +289,7 @@ window.questions = [
   },
   {
     id: 23,
-    image: "images/IMG_7098.jpeg",
+    image: "images/IMG_8491.jpeg",
     question: "A 5-year-old child presents with recurrent itchy vesiculobullous lesions over the lower trunk and perineal region. Examination shows multiple vesicles arranged in an annular pattern, with newer vesicles forming around older lesions, producing a “string of pearls” / “cluster of jewels” appearance. Immunopathology shows linear IgA deposition targeting BPAg2.\nWhat is the most likely diagnosis?",
     options: [
       "Bullous pemphigoid",
@@ -302,7 +302,7 @@ window.questions = [
   },
   {
     id: 24,
-    image: "images/IMG_6984.jpeg",
+    image: "images/IMG_8492.jpeg",
     question: "A 24-year-old man presents with severe itching and recurrent grouped vesicles over both elbows, knees, buttocks, and shoulders. Many lesions are excoriated due to scratching. Biopsy shows a subepidermal split with collections of neutrophils at the tips of dermal papillae. Direct immunofluorescence shows a granular pattern of IgA deposition at the dermal papillary tips.\nWhich of the following is the treatment of choice for rapid symptomatic relief?",
     options: [
       "Rituximab",
@@ -315,7 +315,7 @@ window.questions = [
   },
   {
     id: 25,
-    image: "images/IMG_6989.jpeg",
+    image: "images/IMG_8493.jpeg",
     question: "A 16-year-old boy presents with multiple dark, greasy, hyperkeratotic papules over the neck, upper trunk, and seborrheic areas. The neck appears unclean despite repeated washing. Oral examination shows thickened hard palate with cobblestone appearance, and nails show V-shaped triangular notching at the distal nail margin. Histology reveals suprabasal acantholysis.\nWhich genetic defect is most likely responsible for this disorder?",
     options: [
       "CARD14 gene defect",
@@ -328,7 +328,7 @@ window.questions = [
   },
   {
     id: 26,
-    image: "images/IMG_6990.jpeg",
+    image: "images/IMG_8494.jpeg",
     question: "A 30-year-old man presents with recurrent painful erosions and macerated plaques in the axilla and groin, worsened by sweating and friction. There is a family history of similar lesions. Biopsy shows suprabasal acantholysis with incomplete separation of keratinocytes, giving a “dilapidated brick wall” appearance. Genetic testing reveals a defect in a calcium channel–related gene.\nWhich is the most likely diagnosis?",
     options: [
       "Hailey-Hailey disease",
@@ -341,7 +341,7 @@ window.questions = [
   },
   {
     id: 27,
-    image: "images/IMG_6992.jpeg",
+    image: "images/IMG_8495.jpeg",
     question: "A 41-year-old diabetic man presents with rapidly spreading painful erythematous swelling over the leg associated with fever. Examination shows diffuse warmth, tenderness, and edema of the involved skin without any obvious follicular-centered pustule or boil. The dermatologist classifies it as a progressive non-follicular pyoderma.\nWhich of the following belongs to the same category?",
     options: [
       "Impetigo",
@@ -354,7 +354,7 @@ window.questions = [
   },
   {
     id: 28,
-    image: "images/IMG_6993.jpeg",
+    image: "images/IMG_8496.jpeg",
     question: "A 7-year-old child presents with patchy hair loss over the scalp with broken hairs and mild scaling. On examination in a dark room using a diagnostic lamp emitting 365 nm wavelength, the affected scalp hairs show blue-green fluorescence.\nWhich condition is most likely responsible for this finding?",
     options: [
       "Erythrasma",
@@ -367,7 +367,7 @@ window.questions = [
   },
   {
     id: 29,
-    image: "images/IMG_6996.jpeg",
+    image: "images/IMG_8497.jpeg",
     question: "A 6-year-old child presents with multiple superficial erosions around the nose and mouth covered by golden honey-coloured crusts. There are no intact bullae. Culture shows predominance of Group A Streptococcus. Two weeks later, the child develops facial puffiness, cola-coloured urine, and hypertension.\nWhich complication is classically associated with this condition?",
     options: [
       "Staphylococcal scalded skin syndrome",
@@ -380,7 +380,7 @@ window.questions = [
   },
   {
     id: 30,
-    image: "images/IMG_6998.jpeg",
+    image: "images/IMG_8498.jpeg",
     question: "A 2-year-old child develops fever and diffuse painful erythema after a recent ear infection. Within 24 hours, large sheets of superficial skin peel off, giving a “potato-skin peeling” appearance. The child has marked skin tenderness, but the oral mucosa is spared. The causative organism releases a toxin that targets a desmosomal protein in the upper epidermis.\nWhich mechanism best explains this condition?",
     options: [
       "Exfoliative toxin of Staphylococcus aureus binds desmoglein 1 causing subcorneal split",
@@ -393,7 +393,7 @@ window.questions = [
   },
   {
     id: 31,
-    image: "images/IMG_6999.jpeg",
+    image: "images/IMG_8499.jpeg",
     question: "A 24-year-old man presents with excessive sweating and poor local hygiene. On examination, the axillary hairs are coated with yellowish crust-like concretions. The underlying skin is minimally inflamed. The dermatologist advises improved hygiene and shaving of axillary hair as part of treatment.\nWhich is the most likely diagnosis?",
     options: [
       "Erythrasma",
@@ -406,7 +406,7 @@ window.questions = [
   },
   {
     id: 32,
-    image: "images/IMG_7003.jpeg",
+    image: "images/IMG_8500.jpeg",
     question: "A 58-year-old diabetic woman presents with sudden onset fever and a painful, bright red swelling over the face. Examination shows well-defined erythema with raised margins. The lesion extends over the cheek and also involves the ear pinna. The dermatologist mentions that this ear involvement helps differentiate it from a deeper soft tissue infection.\nWhat is the most likely diagnosis?",
     options: [
       "Cellulitis",
@@ -419,7 +419,7 @@ window.questions = [
   },
   {
     id: 33,
-    image: "images/IMG_7004.jpeg",
+    image: "images/IMG_8501.jpeg",
     question: "A 27-year-old veterinary worker develops a painful nodular lesion over the finger after handling goats. The lesion later becomes ulcerated with thick hemorrhagic crusting. There is no generalized illness. Biopsy shows ballooning degeneration of keratinocytes. The dermatologist reassures him that treatment is mainly symptomatic.\nWhich is the most likely causative agent?",
     options: [
       "Streptococcus pyogenes",
@@ -432,7 +432,7 @@ window.questions = [
   },
   {
     id: 34,
-    image: "images/IMG_7006.jpeg",
+    image: "images/IMG_8502.jpeg",
     question: "A 23-year-old woman presents with recurrent episodes of burning and itching around the angle of the mouth followed by multiple grouped vesicles near the mucocutaneous junction. The lesions heal spontaneously but recur during stress. Tzanck smear shows multinucleated giant cells, and histopathology shows ballooning degeneration with intranuclear inclusion bodies.\nWhat is the most likely diagnosis?",
     options: [
       "Herpes simplex virus infection",
@@ -445,7 +445,7 @@ window.questions = [
   },
   {
     id: 35,
-    image: "images/IMG_7007.jpeg",
+    image: "images/IMG_8503.jpeg",
     question: "A 52-year-old man presents with severe ear pain followed by lower motor neuron facial palsy. Examination shows grouped vesicles in the external auditory canal. He also complains of burning pain before appearance of the vesicles. The physician explains that this occurs due to reactivation of a latent virus causing inflammation of the geniculate ganglion.\nWhat is the most likely diagnosis?",
     options: [
       "Herpes simplex labialis",
@@ -471,7 +471,7 @@ window.questions = [
   },
   {
     id: 37,
-    image: "images/IMG_7015.jpeg",
+    image: "images/IMG_8504.jpeg",
     question: "A 6-year-old child presents with multiple discrete, smooth, flesh-coloured, pearly dome-shaped papules over the trunk. Each lesion has a characteristic central umbilication. Histopathology shows enlarged epidermal cells with intracytoplasmic inclusion bodies and a “smashed potato” appearance.\nWhich of the following is the most characteristic histopathological finding?",
     options: [
       "Koilocytes with perinuclear halo",
@@ -484,7 +484,7 @@ window.questions = [
   },
   {
     id: 38,
-    image: "images/IMG_7016.jpeg",
+    image: "images/IMG_8505.jpeg",
     question: "A 9-year-old child presents with chronic scalp scaling and patchy hair loss. Examination shows multiple yellow, cup-shaped crusted lesions around hair follicles. Some lesions have coalesced, and early scarring alopecia is noted. The dermatologist describes these yellow cup-like crusts as scutula.\nWhich organism is most classically associated with this presentation?",
     options: [
       "Trichophyton schoenleinii",
@@ -497,7 +497,7 @@ window.questions = [
   },
   {
   id: 39,
-  image: "images/IMG_7021.jpeg",
+  image: "images/IMG_8506.jpeg",
   question: "A 17-year-old boy from a tropical rural area presents with multiple chronic itchy plaques over the trunk and limbs. Examination shows concentric, overlapping, ring-like scaly lesions giving a target-like / imbricated pattern. KOH mount from the scale confirms dermatophyte infection.\nWhich organism is most likely responsible?",
   options: [
     "Trichophyton rubrum",
@@ -510,7 +510,7 @@ window.questions = [
   },
   {
     id: 40,
-    image: "images/IMG_7022.jpeg",
+    image: "images/IMG_ 8508.jpeg",
     question: "A 19-year-old college student presents with multiple discrete-to-confluent hypopigmented perifollicular macules over the upper back and chest. The lesions become more obvious after sun exposure. KOH mount shows short curved hyphae mixed with round spores, giving a “spaghetti and meatball” appearance. Wood’s lamp examination shows yellow fluorescence.\nWhich factor best explains the hypopigmentation in this condition?",
     options: [
       "Porphyrin production by Corynebacterium minutissimum",
@@ -523,7 +523,7 @@ window.questions = [
   },
   {
     id: 41,
-    image: "images/IMG_7023.jpeg",
+    image: "images/IMG_8509.jpeg",
     question: "A 38-year-old farmer presents with a chronic swelling of the foot for several years. The lesion is slowly progressive and has multiple discharging sinuses. On examination, there is marked deformity of the foot, and black-coloured granules are seen in the discharge.\nWhich of the following best fits this condition?",
     options: [
       "Actinomycetoma with yellow grains and rapid progression",
@@ -536,7 +536,7 @@ window.questions = [
   },
   {
     id: 42,
-    image: "images/IMG_7026.jpeg",
+    image: "images/IMG_8510.jpeg",
     question: "A 45-year-old farmer presents with a slowly enlarging verrucous, cauliflower-like thickened plaque over the extensor surface of the leg. The lesion is chronic and non-healing. Biopsy shows thick-walled, brown, round fungal bodies arranged with internal septations.\nWhich of the following histopathological findings is most characteristic of this condition?",
     options: [
       "Copper penny bodies",
@@ -549,7 +549,7 @@ window.questions = [
   },
   {
     id: 43,
-    image: "images/IMG_7028.jpeg",
+    image: "images/IMG_8511.jpeg",
     question: "A 35-year-old gardener presents with a painless ulcerated nodule on the hand after a thorn prick while handling rose plants. Over the next few weeks, multiple nodules develop in a linear arrangement along the forearm, following the course of lymphatics. Biopsy shows star-shaped asteroid bodies.\nWhich organism is most likely responsible?",
     options: [
       "Nocardia brasiliensis",
@@ -562,7 +562,7 @@ window.questions = [
   },
   {
     id: 44,
-    image: "images/IMG_7029.jpeg",
+    image: "images/IMG_8512.jpeg",
     question: "A 46-year-old homeless man presents with severe generalized itching, multiple excoriations, and secondary bacterial infection over the trunk. Examination reveals lice and nits mainly in the seams of clothing and bedding, while scalp hair and pubic hair are relatively spared. The dermatologist advises disinfection of clothes and bedding as the most important step.\nWhich infestation is most likely responsible?",
     options: [
       "Pediculosis capitis",
@@ -575,7 +575,7 @@ window.questions = [
   },
   {
     id: 45,
-    image: "images/IMG_7030.jpeg",
+    image: "images/IMG_8513.jpeg",
     question: "A 28-year-old man presents with intense nocturnal itching involving the wrist, web spaces, axilla, periumbilical area, groin, and elbows. Examination shows burrows, papules, pustules, and excoriations. He also has persistent itchy nodules over the scrotum and penile shaft, explained as a hypersensitivity reaction to mite antigen.\nWhich is the most appropriate treatment for these persistent nodular lesions?",
     options: [
       "Oral acyclovir",
@@ -588,7 +588,7 @@ window.questions = [
   },
   {
     id: 46,
-    image: "images/IMG_7032.jpeg",
+    image: "images/IMG_8514.jpeg",
     question: "A 32-year-old man who was treated for visceral leishmaniasis 3 years ago now presents with multiple hypopigmented macules over the face and trunk, followed later by nodular lesions. There is no active fever or hepatosplenomegaly. The dermatologist explains that this is a delayed dermal manifestation occurring after recovery from kala-azar.\nWhich is the drug of choice for this condition?",
     options: [
       "Oral miltefosine",
@@ -601,7 +601,7 @@ window.questions = [
   },
   {
     id: 47,
-    image: "images/IMG_7034.jpeg",
+    image: "images/IMG_8515.jpeg",
     question: "A 26-year-old woman presents with a slowly enlarging lesion over the buttock. Examination shows a dark brown annular plaque with peripheral extension and central scarring. On pressing the lesion with a glass slide, multiple soft yellow-brown translucent nodules become visible, described as apple-jelly nodules. She is otherwise immunocompetent.\nWhat is the most likely diagnosis?",
     options: [
       "Tuberculosis verrucosa cutis",
@@ -627,7 +627,7 @@ window.questions = [
   },
   {
     id: 49,
-    image: "images/IMG_7035.jpeg",
+    image: "images/IMG_8516.jpeg",
     question: "A 27-year-old man presents with generalized lymphadenopathy and hyperpigmented macules over palms and soles. Oral examination shows an asymptomatic mucous patch, and genital examination reveals flat moist lesions in the groin. He also has patchy moth-eaten alopecia. On palpation of the skin lesions, deep dermal tenderness is elicited, known as Ollendorff’s sign.\nWhich pathological process best explains this tenderness?",
     options: [
       "Suprabasal acantholysis",
@@ -640,7 +640,7 @@ window.questions = [
   },
   {
     id: 50,
-    image: "images/IMG_7036.jpeg",
+    image: "images/IMG_8517.jpeg",
     question: "A 26-year-old man presents with multiple painful genital ulcers after unprotected sexual exposure. The ulcers are soft, non-indurated, and have undermined edges with a dirty necrotic base. He also has painful unilateral inguinal lymph node enlargement. Gram staining of ulcer discharge shows gram-negative coccobacilli arranged in a characteristic pattern.\nWhich of the following findings is most likely seen on Gram stain?",
     options: [
       "School of fish / rail-track appearance",
@@ -1160,7 +1160,7 @@ window.questions = [
   },
   {
     id: 90,
-    image: "images/IMG_7037.jpeg",
+    image: "images/IMG_8518.jpeg",
     question: "A 12-year-old child presents with fever, nasal obstruction, facial heaviness, and mucopurulent nasal discharge. Nasal endoscopy shows pus in the middle meatus. Two days later, he develops painful periorbital swelling with restricted eye movements. Imaging shows involvement of the ethmoidal sinus.\nWhich of the following is the most appropriate interpretation?",
     options: [
       "Orbital cellulitis / orbital abscess is commonly associated with ethmoidal sinusitis",
@@ -1173,7 +1173,7 @@ window.questions = [
   },
   {
     id: 91,
-    image: "images/IMG_7038.jpeg",
+    image: "images/IMG_8519.jpeg",
     question: "A 19-year-old woman presents with chronic foul-smelling nasal crusting, anosmia, and a roomy nasal cavity. She is started on regular alkaline nasal douching. The solution advised contains sodium biborate, sodium bicarbonate, and sodium chloride. If she fails medical management, a procedure producing temporary nostril closure is considered, but the surgeon prefers a modification that avoids complete obstruction.\nWhich statement is most appropriate regarding management?",
     options: [
       "The alkaline nasal wash contains sodium biborate, sodium bicarbonate, and sodium chloride in 2:1:1 ratio",
@@ -1199,7 +1199,7 @@ window.questions = [
   },
   {
     id: 93,
-    image: "images/IMG_7039.jpeg",
+    image: "images/IMG_8520.jpeg",
     question: "A 24-year-old atopic male presents with long-standing nasal obstruction, foul-smelling nasal discharge, and recurrent nasal polyps. Diagnostic nasal endoscopy reveals thick tenacious peanut-butter-like mucin. CT paranasal sinuses shows areas of heterogeneous opacity with double density. Fungal smear is positive, but there is no tissue invasion.\nWhich of the following best supports the diagnosis?",
     options: [
       "Fungal culture is a major diagnostic criterion and tissue invasion is mandatory",
@@ -1212,7 +1212,7 @@ window.questions = [
   },
   {
     id: 94,
-    image: "images/IMG_7041.jpeg",
+    image: "images/IMG_8521.jpeg",
     question: "A 64-year-old man presents with progressive unilateral nasal obstruction, intermittent epistaxis, and facial heaviness. Diagnostic nasal endoscopy shows a friable mass arising from the lateral wall of the nose. CT scan shows extension toward the maxillary sinus with destruction of the maxillary sinus wall.\nWhich is the most likely diagnosis?",
     options: [
       "Squamous cell carcinoma of nose",
@@ -1238,7 +1238,7 @@ window.questions = [
   },
   {
     id: 96,
-    image: "images/IMG_7042.jpeg",
+    image: "images/IMG_8522.jpeg",
     question: "A 24-year-old man presents after a road traffic accident with nasal swelling, epistaxis, and deviation of the nasal dorsum. Lateral view nasal X-ray shows a radiolucent line over the dorsum of the nasal bone. The resident plans manipulation, but the consultant says reduction becomes difficult if edema develops and timing decides the type of reduction.\nWhich of the following is the most appropriate statement?",
     options: [
       "Zygomatic fracture is the most common facial fracture and should always be treated by open reduction immediately",
@@ -1251,7 +1251,7 @@ window.questions = [
   },
   {
     id: 97,
-    image: "images/IMG_7043.jpeg",
+    image: "images/IMG_8524.jpeg",
     question: "A 30-year-old man presents after facial trauma with swelling around the eye, circumorbital ecchymosis, subconjunctival hemorrhage, unilateral epistaxis, and flattening of the cheek prominence. Palpation reveals a step deformity at the infraorbital rim and frontozygomatic suture. X-ray shows a tear drop sign.\nWhich fracture pattern is most likely involved?",
     options: [
       "Isolated nasal bone fracture",
@@ -1264,7 +1264,7 @@ window.questions = [
   },
   {
     id: 98,
-    image: "images/IMG_7045.jpeg",
+    image: "images/IMG_8525.jpeg",
     question: "A 29-year-old man develops persistent clear watery nasal discharge after a road traffic accident. The discharge increases when he bends forward. When the fluid mixed with blood is placed on tissue paper, it forms a central reddish spot surrounded by a clear outer ring.\nWhich of the following is the most likely explanation?",
     options: [
       "Cribriform plate leak producing double ring / target / halo sign",
@@ -1290,7 +1290,7 @@ window.questions = [
   },
   {
     id: 100,
-    image: "images/IMG_7100.jpeg",
+    image: "images/IMG_8526.jpeg",
     question: "A 13-year-old boy presents with progressive unilateral nasal obstruction and mouth breathing. Nasal endoscopy shows a single smooth polypoidal mass extending posteriorly toward the choana. The surgeon explains that the lesion arises from the maxillary antrum, passes through the ostium, and has a characteristic trilobed configuration. There is no history of allergy and recurrence is uncommon after complete endoscopic removal.\nWhich diagnosis best fits this presentation?",
     options: [
       "Ethmoidal polyp",
@@ -1303,7 +1303,7 @@ window.questions = [
   },
   {
     id: 101,
-    image: "images/IMG_7047.jpeg",
+    image: "images/IMG_8527.jpeg",
     question: "A 38-year-old man presents with chronic nasal obstruction, crusting, occasional epistaxis, and a non-healing ulcerative lesion in the anterior nasal cavity. Examination shows involvement of the cartilaginous septal region near the anterior end of the inferior turbinate. The clinician also mentions that the same region is commonly involved in another chronic granulomatous disease of the nose.\nWhich of the following statements is most accurate?",
     options: [
       "The most common symptom is lacrimation, and the bony septum is the usual site",
@@ -1316,7 +1316,7 @@ window.questions = [
   },
   {
     id: 102,
-    image: "images/IMG_7048.jpeg",
+    image: "images/IMG_8528.jpeg",
     question: "A 34-year-old man from North India presents with long-standing foul-smelling nasal crusting and progressive nasal obstruction. On examination, the nose feels hard and woody. Biopsy from the nasal lesion shows large vacuolated macrophages containing bacilli, along with eosinophilic inclusion bodies.\nWhich of the following is the most appropriate diagnosis?",
     options: [
       "Rhinoscleroma",
@@ -1329,7 +1329,7 @@ window.questions = [
   },
   {
     id: 103,
-    image: "images/IMG_7049.jpeg",
+    image: "images/IMG_8529.jpeg",
     question: "A 62-year-old debilitated man with poor nasal hygiene presents with foul-smelling nasal discharge, crusting, bleeding, and a crawling sensation inside the nose. On examination, multiple motile larvae are seen within the nasal cavity. The ENT surgeon explains that the causative fly can release hundreds of eggs within a day, and larvae crawl out by the 3rd–4th day.\nWhich of the following is the most appropriate treatment step?",
     options: [
       "Vidian neurectomy through pterygopalatine fossa",
@@ -1355,7 +1355,7 @@ window.questions = [
   },
   {
     id: 105,
-    image: "images/IMG_7050.jpeg",
+    image: "images/IMG_8530.jpeg",
     question: "A 27-year-old man presents with a depressed nasal bridge after repeated nasal trauma. On examination, there is loss of dorsal nasal support with a characteristic saddle-shaped deformity. The surgeon plans a corrective procedure using autologous graft material.\nWhich of the following is the most appropriate management?",
     options: [
       "Septoplasty alone",
@@ -1381,7 +1381,7 @@ window.questions = [
   },
   {
     id: 107,
-    image: "images/IMG_7051.jpeg",
+    image: "images/IMG_8531.jpeg",
     question: "A patient with suspected posterior paranasal sinus pathology is advised an X-ray view in which the beam passes from below the chin toward the vertex. The radiology resident says this view is especially useful for evaluating the deeper posterior sinuses, and remembers the visibility sequence as SPM.\nWhich of the following correctly describes this view?",
     options: [
       "Occipitomental view; best for frontal sinus, anterior ethmoid, and maxillary sinus",
@@ -1407,7 +1407,7 @@ window.questions = [
   },
   {
     id: 109,
-    image: "images/IMG_7052.jpeg",
+    image: "images/IMG_8532.jpeg",
     question: "A 14-year-old boy presents with progressive unilateral nasal obstruction and recurrent episodes of profuse epistaxis. Examination shows a reddish mass filling the nasopharynx. CT scan shows anterior bowing of the posterior wall of maxillary sinus. The surgeon warns the resident not to attempt tissue sampling before definitive planning.\nWhich of the following is the most appropriate statement regarding this lesion?",
     options: [
       "It is a benign non-vascular polyp arising from maxillary antrum and biopsy is diagnostic",
@@ -1446,7 +1446,7 @@ window.questions = [
   },
   {
     id: 112,
-    image: "images/IMG_7053.jpeg",
+    image: "images/IMG_8533.jpeg",
     question: "During tympanoplasty for chronic otitis media, the surgeon finds erosion near the long process of incus. A small terminal knob-like process that normally articulates with the head of stapes is identified as the key structure needed to reconstruct the ossicular chain.\nWhich ossicular part is being referred to?",
     options: [
       "Short process of incus",
@@ -1498,7 +1498,7 @@ window.questions = [
   },
   {
     id: 116,
-    image: "images/IMG_7055.jpeg",
+    image: "images/IMG_8534.jpeg",
     question: "A 16-year-old boy with recurrent foul-smelling ear discharge is evaluated for unsafe chronic otitis media. Otoscopy shows an attic retraction pocket with collection of white keratin debris. The surgeon explains that this lesion is not a true tumor and develops due to squamous metaplasia/keratinizing squamous epithelium within the middle ear cleft. The earliest site where this process commonly begins is asked.\nWhich of the following is the most likely earliest site for development of this lesion?",
     options: [
       "Sinus tympani",
@@ -1550,7 +1550,7 @@ window.questions = [
   },
   {
     id: 120,
-    image: "images/IMG_7056.jpeg",
+    image: "images/IMG_8535.jpeg",
     question: "A 4-year-old child is brought with sudden ear pain after inserting a small round object into the ear. Otoscopy shows the object impacted at the narrowest part of the external auditory canal, close to the tympanic membrane. X-ray shows a double-ring appearance. The ENT surgeon immediately shifts the child for urgent removal, warning that delay may cause surrounding tissue necrosis and facial nerve palsy.\nWhich is the most dangerous foreign body in the external auditory canal?",
     options: [
       "Pea seed",
@@ -1589,7 +1589,7 @@ window.questions = [
   },
   {
     id: 123,
-    image: "images/IMG_7058.jpeg",
+    image: "images/IMG_8536.jpeg",
     question: "A child with congenital sensorineural hearing loss undergoes HRCT temporal bone. The report describes an incompletely developed cochlea with only 1.5 turns, instead of the normal 2¾ turns. Vestibular structures are present, and the cochlea is not completely absent.\nWhich congenital inner ear abnormality is most likely present?",
     options: [
       "Mondini dysplasia",
@@ -1615,7 +1615,7 @@ window.questions = [
   },
   {
     id: 125,
-    image: "images/IMG_7060.jpeg",
+    image: "images/IMG_8537.jpeg",
     question: "A 42-year-old man presents with slowly progressive unilateral hearing difficulty, tinnitus, and imbalance. Pure tone audiometry shows sensorineural hearing loss, but speech discrimination is disproportionately poor. MRI shows a cerebellopontine angle lesion arising from the vestibular part of the eighth cranial nerve.\nWhich type of deafness is most classically represented in this patient?",
     options: [
       "Conductive deafness",
@@ -1628,7 +1628,7 @@ window.questions = [
   },
   {
     id: 126,
-    image: "images/IMG_7061.jpeg",
+    image: "images/IMG_8538.jpeg",
     question: "A 28-year-old woman presents with gradually progressive hearing loss. Otoscopy is normal. Pure tone audiometry shows an air-bone gap, but the examiner also notices a characteristic dip in bone conduction threshold at 2000 Hz. The consultant says this dip is not true cochlear damage and may disappear after successful stapes surgery.\nWhich of the following best explains this finding?",
     options: [
       "True sensory loss due to outer hair cell damage",
@@ -1641,7 +1641,7 @@ window.questions = [
   },
   {
     id: 127,
-    image: "images/IMG_7102.jpeg",
+    image: "images/IMG_8539.jpeg",
     question: "A 46-year-old factory worker presents with gradually progressive difficulty in hearing after many years of exposure to loud industrial machinery. Pure tone audiometry shows a characteristic dip at 4000 Hz. The examiner explains that this dip is due to early damage to a specific group of cochlear hair cells.\nWhich of the following is the most appropriate explanation?",
     options: [
       "Acoustic notch due to outer hair cell damage in noise-induced hearing loss",
@@ -1706,7 +1706,7 @@ window.questions = [
   },
   {
     id: 132,
-    image: "images/IMG_7064.jpeg",
+    image: "images/IMG_8540.jpeg",
     question: "A 2-month-old infant is evaluated for suspected hearing impairment using a non-invasive objective auditory test. Three electrodes are placed, and the response is recorded as 7 waves generated from sequential auditory pathway stations. The examiner asks the intern to identify the wave that is usually the largest and most clinically reliable in this test.\nWhich wave is being referred to?",
     options: [
       "Wave I",
@@ -1719,7 +1719,7 @@ window.questions = [
   },
   {
     id: 133,
-    image: "images/IMG_7103.jpeg",
+    image: "images/IMG_8541.jpeg",
     question: "A young adult presents with gradually progressive hearing difficulty. Audiometry suggests conductive hearing loss, and stapes fixation is suspected. On general examination, the patient has blue sclera and gives a history of repeated fractures after trivial trauma.\nWhich syndrome best explains this association?",
     options: [
       "Alport syndrome",
@@ -1784,7 +1784,7 @@ window.questions = [
   },
   {
     id: 138,
-    image: "images/IMG_7068.jpeg",
+    image: "images/IMG_8542.jpeg",
     question: "A 22-year-old wrestler presents with painful swelling of the pinna after repeated blunt trauma during training. The swelling is fluctuant and lies over the cartilaginous part of the auricle. The surgeon warns that if it is not treated early, it can heal with permanent irregular deformity of the pinna known as cauliflower ear.\nThe collection of blood in this condition is present between which of the following layers?",
     options: [
       "Skin and subcutaneous tissue",
@@ -1797,7 +1797,7 @@ window.questions = [
   },
   {
     id: 139,
-    image: "images/IMG_7071.jpeg",
+    image: "images/IMG_8543.jpeg",
     question: "A 24-year-old trekker returns after prolonged exposure to freezing temperature. He develops painful swelling of the pinna with erythema, edema, and bullae formation. A few areas later become dusky and necrotic. There is no history of blunt trauma or auricular hematoma.\nWhat is the most appropriate initial management?",
     options: [
       "Rewarming with analgesics and local care; antibiotics/debridement only when infection or necrosis is present",
@@ -1810,7 +1810,7 @@ window.questions = [
   },
   {
     id: 140,
-    image: "images/IMG_7072.jpeg",
+    image: "images/IMG_8544.jpeg",
     question: "A 42-year-old woman presents with recurrent painful redness and swelling of both pinnae. The ear lobule is spared. She also complains of hoarseness and intermittent nasal bridge pain. On evaluation, involvement of septal, laryngeal, tracheal, and costal cartilages is suspected.\nWhich of the following is the treatment of choice during active disease?",
     options: [
       "Incision and drainage with pressure bandage",
@@ -1823,7 +1823,7 @@ window.questions = [
   },
   {
     id: 141,
-    image: "images/IMG_7073.jpeg",
+    image: "images/IMG_8545.jpeg",
     question: "A 19-year-old swimmer presents with severe localized ear pain, worsened by touching the tragus. Otoscopy shows a small tender pustular swelling in the cartilaginous part of the external auditory canal, while the tympanic membrane is normal. The lesion is limited to the canal and does not involve the middle ear.\nWhich of the following best explains this condition?",
     options: [
       "Diffuse fungal infection of the external auditory canal",
@@ -1836,7 +1836,7 @@ window.questions = [
   },
   {
     id: 142,
-    image: "images/IMG_7074.jpeg",
+    image: "images/IMG_8546.jpeg",
     question: "An elderly diabetic patient presents with persistent foul-smelling ear discharge, severe otalgia, granulation tissue in the external auditory canal, and new-onset facial nerve palsy. Skull base osteomyelitis is suspected. A radionuclide scan is used to establish the diagnosis. After treatment is started, the consultant asks for the best investigation to assess response and prognosis.\nWhich of the following is most useful for monitoring prognosis in this condition?",
     options: [
       "Pure tone audiometry",
@@ -1849,7 +1849,7 @@ window.questions = [
   },
   {
     id: 143,
-    image: "images/IMG_7077.jpeg",
+    image: "images/IMG_8547.jpeg",
     question: "A 14-year-old boy presents with severe ear pain and conductive hearing difficulty. Otoscopy shows a pearly white mass deeply impacted in the external auditory canal. The lesion is bilateral, and after removal it is found to be made of desquamated epithelial debris. He is started on keratolytic therapy, but persistent obstruction later requires widening of the canal.\nWhat is the most likely diagnosis?",
     options: [
       "Keratosis obturans",
@@ -1862,7 +1862,7 @@ window.questions = [
   },
   {
     id: 144,
-    image: "images/IMG_7078.jpeg",
+    image: "images/IMG_8548.jpeg",
     question: "A 17-year-old boy who regularly practices surfing and swimming presents with recurrent ear blockage and episodes of diffuse otitis externa. Otoscopic examination shows bilateral multiple bony swellings arising from the external auditory canal. There is no single pedunculated unilateral mass.\nWhat is the most likely diagnosis?",
     options: [
       "Osteoma of external auditory canal",
@@ -1875,7 +1875,7 @@ window.questions = [
   },
   {
     id: 145,
-    image: "images/IMG_7079.jpeg",
+    image: "images/IMG_8549.jpeg",
     question: "A 7-year-old school-going child is brought with gradually progressive hearing difficulty noticed by the teacher. There is no fever, no ear pain, and no congestion. Otoscopy shows a dull bluish tympanic membrane with reduced mobility. Thick mucoid fluid is suspected behind the tympanic membrane. The condition has persisted for more than 3 months despite medical treatment.\nWhat is the treatment of choice?",
     options: [
       "Immediate mastoidectomy",
@@ -1888,7 +1888,7 @@ window.questions = [
   },
   {
     id: 146,
-    image: "images/IMG_7081.jpeg",
+    image: "images/IMG_8550.jpeg",
     question: "A 6-year-old school-going child presents with acute severe ear pain, high-grade fever, and irritability. Otoscopy shows a congested, red, bulging tympanic membrane with loss of normal landmarks. The pediatrician explains that if pus is under pressure or complications are suspected, a surgical drainage procedure may be needed using a large circumferential incision in a safe quadrant.\nWhich of the following is the most appropriate management statement?",
     options: [
       "Small radial incision in the anteroinferior quadrant with grommet insertion",
@@ -1901,7 +1901,7 @@ window.questions = [
   },
   {
     id: 147,
-    image: "images/IMG_7082.jpeg",
+    image: "images/IMG_8551.jpeg",
     question: "A 13-year-old child has recurrent ear discharge. Otoscopy shows a pars flaccida perforation with scanty, foul-smelling discharge, attic granulation tissue, and a small aural polyp. The clinician is concerned about cholesteatoma and ossicular erosion.\nWhich diagnosis best fits this presentation?",
     options: [
       "Unsafe atticoantral disease with pars flaccida involvement",
